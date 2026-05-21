@@ -1,8 +1,8 @@
 # LW4_Improving-CNN-Performance
 
-Google Drive: https://drive.google.com/drive/folders/156Pvl8_yzmFR0FFgTk6t8O9kIEPKNEMO?usp=sharing
+## Google Drive: https://drive.google.com/drive/folders/156Pvl8_yzmFR0FFgTk6t8O9kIEPKNEMO?usp=sharing
 
-Google colab: https://colab.research.google.com/drive/17x0jVgj_ky2hhfnGPL8wirw_rGTm-pGK?usp=sharing
+## Google colab: https://colab.research.google.com/drive/17x0jVgj_ky2hhfnGPL8wirw_rGTm-pGK?usp=sharing
 
 
 GUIDE QUESTIONS (Student Explanation & Reflection)
