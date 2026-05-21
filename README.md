@@ -4,7 +4,7 @@ Google colab: https://colab.research.google.com/drive/17x0jVgj_ky2hhfnGPL8wirw_r
 
 
 GUIDE QUESTIONS (Student Explanation & Reflection)
-A. Model Evaluation Analysis
+## A. Model Evaluation Analysis
 1. What were the weakest-performing classes based on the confusion matrix?
 2. How did Precision, Recall, and F1-score vary across classes?
 3. What does a low recall indicate in your model?
